@@ -1,0 +1,4 @@
+.idea/
+volume/
+/terraform/.terraform
+**/*.tfstate*
